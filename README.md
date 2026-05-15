@@ -1,2 +1,3 @@
 # WindowsCoreCollection
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+alright guys this project doesnt exist because github hates iso's
